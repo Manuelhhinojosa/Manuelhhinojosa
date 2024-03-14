@@ -31,3 +31,6 @@ I worked in the culinary industry for over a decade. My formal training as a che
 - 📫 How to reach me **mangud.hinojosa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/manuelhh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/devboyarif" height="30" width="40" /></a>
+</p>
