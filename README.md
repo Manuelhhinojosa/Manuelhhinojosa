@@ -24,9 +24,9 @@ I worked in the culinary industry for over a decade. My formal training as a che
 <p align="center"> - Public API </p>
 <p align="center"> - Netlify/Heroku hositng </p>	
 
-- 👨‍💻 Check out my [portfolio](http://www.manuelhh.com)
+- 👨‍💻 Check out my [portfolio](https://manuelhh-6611e2c2720d.herokuapp.com)
 
-- 👨‍💻 My [CV]()
+- 👨‍💻 My [CV](https://manuelhhcv.netlify.app/cv.pdf)
 
 - 📫 How to reach me **mangud.hinojosa@gmail.com**
 
