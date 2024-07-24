@@ -20,11 +20,10 @@ I worked in the culinary industry for over a decade. My formal training as a che
 <p align="center"> - CSS  </p>
 <p align="center"> - SASS </p>
 <p align="center"> - JS </p>
-<p align="center"> - Typescript </p>
 <p align="center"> - Public API </p>
 <p align="center"> - Netlify/Heroku hositng </p>	
 
-- 👨‍💻 Check out my [portfolio](https://manuelhh-6611e2c2720d.herokuapp.com)
+- 👨‍💻 Check out my [portfolio](https://manuelhinojosa.netlify.app)
 
 - 👨‍💻 My [CV](https://manuelhhcv.netlify.app/cv.pdf)
 
