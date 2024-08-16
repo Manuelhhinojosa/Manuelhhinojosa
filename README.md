@@ -5,9 +5,11 @@
 <p align="center"> 🔭 Currently looking for new job opportunities.</p>
 
   
-<p align="justify"> I am passionate about programming and have extensive knowledge of front-end techniques and a flair for visual design. When I’m working on a project, I love structure, order and spending time with details to optimize performance. I’m especially in my element when coming up with original solutions while collaborating with creative, talented and inspiring people.
+<p align="justify"> With a passion for technology and a drive for innovation, I transitioned from a successful career in culinary management and event planning to become a Full Stack Software Engineer.
 
-I worked in the culinary industry for over a decade. My formal training as a chef and my professional experience built my work ethics. I aim to deliver work of the highest quality possible, and thrive on feedback. I consider clear and honest communication fundamental to succesfull collaborating. </p>
+My background in gastronomy and event planning has given me a unique approach to web development, allowing me to infuse creativity, meticulous attention to detail, and a user-centered mindset into every project I undertake.
+
+I have hands-on experience in building and deploying dynamic, responsive web applications using the MERN stack, and I thrive on solving complex problems and delivering elegant, scalable solutions. My journey from crafting memorable experiences in the culinary world to developing impactful digital experiences has equipped me with a fresh perspective, blending technical expertise with a deep understanding of client needs and project management. Whether I'm building a seamless user interface or engineering a robust backend, my goal is to create meaningful and efficient digital solutions that leave a lasting impression. </p>
 
 
 <h3 align="center">Skills:</h3>
