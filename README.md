@@ -1,5 +1,6 @@
 <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
-# Hi there, I'm Manuel H. Hinojosa! 👋
+
+## Hi there, I'm Manuel H. Hinojosa! 👋
 
 I'm a Full Stack Software Engineer based in Toronto, ON, with a passion for building dynamic and responsive web applications. With expertise in the MERN stack (MongoDB, Express, React, Node.js), I create user-centric solutions that solve real-world problems.
 
