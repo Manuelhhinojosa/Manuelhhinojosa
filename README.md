@@ -1,33 +1,27 @@
 <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
-<h2 align="center"> Hi 👋  </h2>
-<h2 align="center">I'm Manuel H Hinojosa</h2>
-<h3 align="center">I am a Full Stack Web Developer.</h3>
-<p align="center"> 🔭 Currently looking for new job opportunities.</p>
+# Hi there, I'm Manuel H. Hinojosa! 👋
 
-  
-<p align="justify"> With a passion for technology and a drive for innovation, I transitioned from a successful career in culinary management and event planning to become a Full Stack Software Engineer.
+I'm a Full Stack Software Engineer based in Toronto, ON, with a passion for building dynamic and responsive web applications. With expertise in the MERN stack (MongoDB, Express, React, Node.js), I create user-centric solutions that solve real-world problems.
 
-My background in gastronomy and event planning has given me a unique approach to web development, allowing me to infuse creativity, meticulous attention to detail, and a user-centered mindset into every project I undertake.
+## About Me
 
-I have hands-on experience in building and deploying dynamic, responsive web applications using the MERN stack, and I thrive on solving complex problems and delivering elegant, scalable solutions. My journey from crafting memorable experiences in the culinary world to developing impactful digital experiences has equipped me with a fresh perspective, blending technical expertise with a deep understanding of client needs and project management. Whether I'm building a seamless user interface or engineering a robust backend, my goal is to create meaningful and efficient digital solutions that leave a lasting impression. </p>
+- 🌱 Currently expanding my skills in JavaScript Algorithms, Computer Science & AI .
+- 💼 Experienced in developing e-commerce platforms, live chat applications, and personal websites.
+- 🎨 With a background in culinary management and event planning, I bring a unique perspective to design and functionality.
 
+## My Projects
 
-<h3 align="center">Skills:</h3>
+Here are some of the projects I've worked on:
 
-<p align="center"> - Mongo/Mongoose </p>
-<p align="center"> - Express </p>
-<p align="center"> - React </p>
-<p align="center"> - NodeJS </p>
-<p align="center"> - HTML </p>
-<p align="center"> - CSS  </p>
-<p align="center"> - SASS </p>
-<p align="center"> - JS </p>
-<p align="center"> - Public API </p>
-<p align="center"> - Netlify/Heroku hositng </p>	
+- **E-commerce Platform**: A fully functional online store built with the MERN stack.
+- **Live Chat Application**: A real-time communication tool utilizing WebSocket technology.
+- **Personal Website**: A portfolio showcasing my client's work and skills.
 
-- 👨‍💻 Check out my [portfolio](https://manuelhinojosa.netlify.app)
+## Let's Connect!
 
-- 👨‍💻 My [CV](https://manuelhhcv.netlify.app/cv.pdf)
+I'm always open to collaboration and new opportunities. Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/manuelhh/) or via email at [mangud.hinojosa@gmail.com].
 
-- 📫 How to reach me **mangud.hinojosa@gmail.com**
+Check out my porfolio: [Portfolio](https://manuelhinojosa.netlify.app)
+My resume: [Resume](https://manuelhhcv.netlify.app/cv.pdf)
 
+Thanks for visiting my GitHub profile! 🚀
